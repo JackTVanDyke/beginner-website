@@ -1,0 +1,1 @@
+Responsive and looking good on mobile. Nav buttons scroll with a smooth effect. I'm learning more HTMl and CSS, still struggling with some CSS. Google Icons was used for this.
